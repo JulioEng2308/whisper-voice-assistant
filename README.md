@@ -36,10 +36,6 @@ without making paid OpenAI API requests.
 ChatGPT integration is pending because API credits are required.
 The assistant does not yet generate automatic answers to spoken questions.
 
-## Credits
-
-Adapted from the voice assistant lab provided by DIO.
-
 ## Author
 
 Julio Cesar Cerrate Castro
